@@ -1,0 +1,3 @@
+rootProject.name = 'provaEsameEs3'
+
+include ':app'
